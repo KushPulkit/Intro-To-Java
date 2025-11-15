@@ -1,0 +1,4 @@
+SerialNo	FirstName	CGPA	Grade
+1		Pulkit		8.7	A
+2		Rishika		9.1	A+
+3		Bhavya		9.0	B

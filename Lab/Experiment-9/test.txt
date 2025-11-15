@@ -1,0 +1,2 @@
+Hello, this is a simple file handling example.
+We are writing and then reading from the same file.
